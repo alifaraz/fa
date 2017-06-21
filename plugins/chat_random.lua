@@ -1,4 +1,4 @@
---by : @Terminator178
+--by : @Me_sudo_MR_FOX
 -- :)
 local function run(msg, matches)
 if matches[1] == "بای" then
