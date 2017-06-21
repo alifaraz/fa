@@ -71,6 +71,8 @@ return {
   patterns = {
     "^کمک$",
     "^راهنما$"
+    "^help$"
+    "^/help$"
   }, 
   run = run 
 }
